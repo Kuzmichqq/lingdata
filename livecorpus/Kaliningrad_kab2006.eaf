@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-02T19:19:35+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-02T21:58:33+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -20,28 +20,26 @@
         <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="753700"/>
         <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="753700"/>
         <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="755143"/>
-        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="755150"/>
-        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="755382"/>
-        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="755786"/>
-        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="756247"/>
-        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="756247"/>
-        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="758025"/>
-        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="758029"/>
-        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="758789"/>
-        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="758789"/>
-        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="761304"/>
-        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="761304"/>
-        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="761693"/>
-        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="762104"/>
-        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="763222"/>
-        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="763568"/>
-        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="766172"/>
-        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="766172"/>
-        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="767104"/>
-        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="767104"/>
-        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="770979"/>
-        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="770993"/>
-        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="775164"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="755382"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="756247"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="756247"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="758025"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="758029"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="758789"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="758789"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="761304"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="761304"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="761693"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="762104"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="763222"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="763568"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="766172"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="766172"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="767104"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="767104"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="770979"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="770993"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="775164"/>
     </TIME_ORDER>
     <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
     <TIER ANNOTATOR="Kuzmichqq" DEFAULT_LOCALE="ru"
@@ -49,79 +47,73 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
                 TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>Ну слушай нормально  я как будто бы / привык уже ээ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну слушай нормально  я как будто бы / привык уже ээ</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
                 TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>Ну вв темп как бы влился </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну вв темп как бы влился </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
                 TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts9">
-                <ANNOTATION_VALUE>Хотя не то чтобы у нас какой-то темп бешенный пока что</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>хотя не то чтобы у нас какой-то темп бешенный пока что</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
                 TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts10">
-                <ANNOTATION_VALUE>Бывает по одной паре в день</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
-                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts13">
-                <ANNOTATION_VALUE>*вздох*</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>бывает по одной паре в день</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
-                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
-                <ANNOTATION_VALUE>Нн=</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>нн=</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
-                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
-                <ANNOTATION_VALUE>Ну типа </ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>ну типа </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
-                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
-                <ANNOTATION_VALUE>Да пока что не парит</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>да пока что не парит</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
-                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts21">
                 <ANNOTATION_VALUE>нормаль=</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
-                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
-                <ANNOTATION_VALUE>Сам / ну / красиво / где - то</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>сам / ну / красиво / где - то</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
-                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
-                <ANNOTATION_VALUE>Где-то очень пыльно</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>где-то очень пыльно</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
-                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
-                <ANNOTATION_VALUE>Да вот по сравнению со Светлогорском вот то что я заметил</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>да вот по сравнению со Светлогорском вот то что я заметил</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
-                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
-                <ANNOTATION_VALUE>Может / ну / в каких то моментах да он чище но прям вот пыль везде</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>может / ну / в каких то моментах да он чище но прям вот пыль везде</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -130,19 +122,19 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>Как вообще / Москва / тебе?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>как вообще / Москва / тебе?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
-                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>Ну</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ну</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
-                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
-                <ANNOTATION_VALUE>Не ну сам город типа</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>не ну сам город типа</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
